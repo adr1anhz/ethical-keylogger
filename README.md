@@ -1,2 +1,15 @@
 # ethical-keylogger
-Keystroke logging &amp; system monitoring tool in Python — built for research and red team simulation purposes.
+
+This project is a personal 14-day challenge to build a working Python-based keylogger from scratch.  
+The goal is to simulate how real-world tools operate — for **research, red teaming, and defense training purposes only**.
+
+Libraries to use :
+- pynput
+- pyautogui
+- cryptography
+- requests
+
+
+
+This software is for research and educational use only.
+Do not deploy or distribute this without proper legal and ethical clearance.
