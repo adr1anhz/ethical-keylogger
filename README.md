@@ -1,6 +1,6 @@
 # ethical-keylogger
 
-This project is a personal 14-day challenge to build a working Python-based keylogger from scratch.  
+This project is a personal challenge to build a working Python-based keylogger from scratch.  
 The goal is to simulate how real-world tools operate — for **research, red teaming, and defense training purposes only**.
 
 Libraries to use :
