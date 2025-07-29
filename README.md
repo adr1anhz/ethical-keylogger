@@ -4,7 +4,7 @@ This project is a personal challenge to build a working Python-based keylogger f
 The goal is to simulate how real-world tools operate — for **research, red teaming, and defense training purposes only**.
 
 Libraries to use :
-- pynput
+- pynput : To listen pressed keyboard characters
 - pyautogui
 - cryptography
 - requests

