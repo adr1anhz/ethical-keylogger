@@ -1,1 +1,931 @@
-aftestc
+aftestctest: gtest: gtest: stest: ctest: vtest: wtest: rtest: itest: ttest: etest: ltest: itest: ntest: etest: stest: stest: stest: ctest: ttest: stest: ftest: stest: ftest: ctest: atest: vtest: ctest: ztest: etest: mtest: utest: ttest: otest: ntest: itest: etest: ztest: atest: ptest: itest: stest: utest: jtest: etest: dtest: otest: otest: dtest: ntest: otest: wtest: etest: jtest: ltest: itest: ntest: itest: jtest: ktest: itest: ?test: atest: stest: stest: atest: ctest: c29/07/2025: g
+29/07/2025: g
+29/07/2025: d
+29/07/2025: s
+29/07/2025: g
+29/07/2025: d
+29/07/2025: f
+29/07/2025: g
+29/07/2025: d
+29/07/2025: f
+29/07/2025: g
+29/07/2025: g
+29/07/2025: d
+29/07/2025: g
+29/07/2025: ,
+29/07/2025: %
+29/07/2025: h
+29/07/2025: ,
+29/07/2025: :
+29/07/2025: %
+29/07/2025: m
+29/07/2025: :
+29/07/2025: %
+29/07/2025: s
+29/07/2025: s
+29/07/2025: c
+29/07/2025, 23:55:26: f
+29/07/2025, 23:55:26: s
+29/07/2025, 23:55:26: f
+29/07/2025, 23:55:26: :
+29/07/2025, 23:55:26: s
+29/07/2025, 23:55:26: s
+29/07/2025, 23:55:26: c
+29/07/2025:23:55:39: f
+29/07/2025:23:55:39: d
+29/07/2025:23:55:39: s
+29/07/2025:23:55:39: f
+29/07/2025:23:55:39: f
+29/07/2025:23:55:39: f
+29/07/2025:23:55:39: f
+29/07/2025:23:55:39: s
+29/07/2025:23:55:39: f
+29/07/2025:23:55:39: c
+29/07/2025:23:56:56: Zwykły klawisz: s
+29/07/2025:23:56:56: Zwykły klawisz: d
+29/07/2025:23:56:56: Zwykły klawisz: f
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.shift
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.shift
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.shift
+29/07/2025:23:56:56: Zwykły klawisz: F
+29/07/2025:23:56:56: Zwykły klawisz: D
+29/07/2025:23:56:56: Zwykły klawisz: F
+29/07/2025:23:56:56: Zwykły klawisz: D
+29/07/2025:23:56:56: Zwykły klawisz: F
+29/07/2025:23:56:56: Zwykły klawisz: D
+29/07/2025:23:56:56: Zwykły klawisz: S
+29/07/2025:23:56:56: Zwykły klawisz: %
+29/07/2025:23:56:56: Zwykły klawisz: $
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.f5
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.backspace
+29/07/2025:23:56:56: Zwykły klawisz: i
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.ctrl
+29/07/2025:23:56:56: Zwykły klawisz: s
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.enter
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.shift_r
+29/07/2025:23:56:56: Zwykły klawisz: #
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.space
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.caps_lock
+29/07/2025:23:56:56: Zwykły klawisz: z
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.caps_lock
+29/07/2025:23:56:56: Zwykły klawisz: a
+29/07/2025:23:56:56: Zwykły klawisz: p
+29/07/2025:23:56:56: Zwykły klawisz: i
+29/07/2025:23:56:56: Zwykły klawisz: s
+29/07/2025:23:56:56: Zwykły klawisz: u
+29/07/2025:23:56:56: Zwykły klawisz: j
+29/07/2025:23:56:56: Zwykły klawisz: e
+29/07/2025:23:56:56: Zwykły klawisz: m
+29/07/2025:23:56:56: Zwykły klawisz: y
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.space
+29/07/2025:23:56:56: Zwykły klawisz: w
+29/07/2025:23:56:56: Zwykły klawisz: c
+29/07/2025:23:56:56: Zwykły klawisz: i
+29/07/2025:23:56:56: Zwykły klawisz: None
+29/07/2025:23:56:56: Zwykły klawisz: s
+29/07/2025:23:56:56: Zwykły klawisz: n
+29/07/2025:23:56:56: Zwykły klawisz: i
+29/07/2025:23:56:56: Zwykły klawisz: e
+29/07/2025:23:56:56: Zwykły klawisz: t
+29/07/2025:23:56:56: Zwykły klawisz: y
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.space
+29/07/2025:23:56:56: Zwykły klawisz: n
+29/07/2025:23:56:56: Zwykły klawisz: i
+29/07/2025:23:56:56: Zwykły klawisz: e
+29/07/2025:23:56:56: Zwykły klawisz: s
+29/07/2025:23:56:56: Zwykły klawisz: t
+29/07/2025:23:56:56: Zwykły klawisz: a
+29/07/2025:23:56:56: Zwykły klawisz: n
+29/07/2025:23:56:56: Zwykły klawisz: d
+29/07/2025:23:56:56: Zwykły klawisz: a
+29/07/2025:23:56:56: Zwykły klawisz: r
+29/07/2025:23:56:56: Zwykły klawisz: d
+29/07/2025:23:56:56: Zwykły klawisz: o
+29/07/2025:23:56:56: Zwykły klawisz: w
+29/07/2025:23:56:56: Zwykły klawisz: y
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.space
+29/07/2025:23:56:56: Zwykły klawisz: k
+29/07/2025:23:56:56: Zwykły klawisz: l
+29/07/2025:23:56:56: Zwykły klawisz: a
+29/07/2025:23:56:56: Zwykły klawisz: w
+29/07/2025:23:56:56: Zwykły klawisz: i
+29/07/2025:23:56:56: Zwykły klawisz: s
+29/07/2025:23:56:56: Zwykły klawisz: z
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.space
+29/07/2025:23:56:56: Zwykły klawisz: d
+29/07/2025:23:56:56: Zwykły klawisz: o
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.space
+29/07/2025:23:56:56: Zwykły klawisz: l
+29/07/2025:23:56:56: Zwykły klawisz: o
+29/07/2025:23:56:56: Zwykły klawisz: g
+29/07/2025:23:56:56: Zwykły klawisz: s
+29/07/2025:23:56:56: Zwykły klawisz: .
+29/07/2025:23:56:56: Zwykły klawisz: t
+29/07/2025:23:56:56: Zwykły klawisz: x
+29/07/2025:23:56:56: Zwykły klawisz: t
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.ctrl
+29/07/2025:23:56:56: Zwykły klawisz: s
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.ctrl
+29/07/2025:23:56:56: Zwykły klawisz: a
+29/07/2025:23:56:56: Zwykły klawisz: c
+29/07/2025:23:56:56: NIestandardowy klawisz: Key.ctrl
+29/07/2025:23:56:56: Zwykły klawisz: c
+29,07/2025:23:58:56: Zwykły klawisz: f
+29,07/2025:23:58:56: Zwykły klawisz: f
+29,07/2025:23:58:56: Zwykły klawisz: s
+29,07/2025:23:58:57: Niestandardowy klawisz: Key.shift
+29,07/2025:23:58:57: Zwykły klawisz: G
+29,07/2025:23:58:57: Zwykły klawisz: D
+29,07/2025:23:58:57: Zwykły klawisz: F
+29,07/2025:23:58:57: Zwykły klawisz: G
+29,07/2025:23:58:58: Zwykły klawisz: g
+29,07/2025:23:58:58: Zwykły klawisz: 4
+29,07/2025:23:58:58: Zwykły klawisz: 5
+29,07/2025:23:58:58: Zwykły klawisz: 6
+29,07/2025:23:58:58: Zwykły klawisz: 7
+29,07/2025:23:58:58: Zwykły klawisz: 4
+29,07/2025:23:58:58: Zwykły klawisz: 7
+29,07/2025:23:58:59: Zwykły klawisz: h
+29,07/2025:23:58:59: Zwykły klawisz: s
+29,07/2025:23:58:59: Zwykły klawisz: f
+29,07/2025:23:58:59: Zwykły klawisz: g
+29,07/2025:23:58:59: Zwykły klawisz: h
+29,07/2025:23:58:59: Zwykły klawisz: f
+29,07/2025:23:58:59: Zwykły klawisz: g
+29,07/2025:23:58:59: Zwykły klawisz: h
+29,07/2025:23:59:10: Niestandardowy klawisz: Key.backspace
+29,07/2025:23:59:10: Zwykły klawisz: /
+29,07/2025:23:59:11: Niestandardowy klawisz: Key.ctrl
+29,07/2025:23:59:11: Zwykły klawisz: s
+29,07/2025:23:59:13: Niestandardowy klawisz: Key.backspace
+29,07/2025:23:59:13: Zwykły klawisz: /
+29,07/2025:23:59:14: Niestandardowy klawisz: Key.ctrl
+29,07/2025:23:59:14: Zwykły klawisz: s
+29,07/2025:23:59:14: Zwykły klawisz: s
+29,07/2025:23:59:14: Niestandardowy klawisz: Key.ctrl
+29,07/2025:23:59:14: Zwykły klawisz: c
+30/07/2025:00:00:02: Niestandardowy klawisz: Key.space
+30/07/2025:00:00:03: Niestandardowy klawisz: Key.space
+30/07/2025:00:00:09: Zwykły klawisz: s
+30/07/2025:00:00:10: Zwykły klawisz: p
+30/07/2025:00:00:10: Zwykły klawisz: e
+30/07/2025:00:00:10: Zwykły klawisz: c
+30/07/2025:00:00:10: Zwykły klawisz: i
+30/07/2025:00:00:10: Zwykły klawisz: a
+30/07/2025:00:00:10: Zwykły klawisz: l
+30/07/2025:00:00:10: Niestandardowy klawisz: Key.shift_r
+30/07/2025:00:00:10: Zwykły klawisz: _
+30/07/2025:00:00:14: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:26: Niestandardowy klawisz: Key.enter
+30/07/2025:00:00:26: Zwykły klawisz: i
+30/07/2025:00:00:26: Zwykły klawisz: f
+30/07/2025:00:00:26: Niestandardowy klawisz: Key.space
+30/07/2025:00:00:27: Zwykły klawisz: k
+30/07/2025:00:00:27: Zwykły klawisz: e
+30/07/2025:00:00:27: Zwykły klawisz: y
+30/07/2025:00:00:27: Niestandardowy klawisz: Key.space
+30/07/2025:00:00:27: Zwykły klawisz: =
+30/07/2025:00:00:28: Zwykły klawisz: =
+30/07/2025:00:00:28: Niestandardowy klawisz: Key.space
+30/07/2025:00:00:30: Zwykły klawisz: k
+30/07/2025:00:00:30: Niestandardowy klawisz: Key.caps_lock
+30/07/2025:00:00:31: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:31: Zwykły klawisz: k
+30/07/2025:00:00:31: Niestandardowy klawisz: Key.caps_lock
+30/07/2025:00:00:31: Zwykły klawisz: e
+30/07/2025:00:00:31: Zwykły klawisz: y
+30/07/2025:00:00:32: Niestandardowy klawisz: Key.space
+30/07/2025:00:00:34: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:34: Zwykły klawisz: .
+30/07/2025:00:00:34: Zwykły klawisz: s
+30/07/2025:00:00:34: Zwykły klawisz: p
+30/07/2025:00:00:34: Zwykły klawisz: a
+30/07/2025:00:00:34: Zwykły klawisz: c
+30/07/2025:00:00:34: Zwykły klawisz: e
+30/07/2025:00:00:35: Niestandardowy klawisz: Key.shift_r
+30/07/2025:00:00:35: Zwykły klawisz: L
+30/07/2025:00:00:35: Zwykły klawisz: :
+30/07/2025:00:00:36: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:36: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:00:36: Niestandardowy klawisz: Key.shift_r
+30/07/2025:00:00:36: Zwykły klawisz: :
+30/07/2025:00:00:37: Niestandardowy klawisz: Key.enter
+30/07/2025:00:00:44: Zwykły klawisz: k
+30/07/2025:00:00:44: Zwykły klawisz: e
+30/07/2025:00:00:44: Zwykły klawisz: y
+30/07/2025:00:00:45: Zwykły klawisz: b
+30/07/2025:00:00:45: Zwykły klawisz: o
+30/07/2025:00:00:45: Zwykły klawisz: a
+30/07/2025:00:00:45: Zwykły klawisz: r
+30/07/2025:00:00:45: Zwykły klawisz: d
+30/07/2025:00:00:45: Zwykły klawisz: .
+30/07/2025:00:00:49: Niestandardowy klawisz: Key.enter
+30/07/2025:00:00:59: Zwykły klawisz: k
+30/07/2025:00:00:59: Zwykły klawisz: e
+30/07/2025:00:00:59: Zwykły klawisz: y
+30/07/2025:00:01:00: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:00: Zwykły klawisz: =
+30/07/2025:00:01:00: Zwykły klawisz: =
+30/07/2025:00:01:03: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:04: Niestandardowy klawisz: Key.shift_r
+30/07/2025:00:01:04: Zwykły klawisz: "
+30/07/2025:00:01:06: Zwykły klawisz: s
+30/07/2025:00:01:06: Zwykły klawisz: p
+30/07/2025:00:01:06: Zwykły klawisz: a
+30/07/2025:00:01:06: Zwykły klawisz: c
+30/07/2025:00:01:06: Zwykły klawisz: j
+30/07/2025:00:01:06: Zwykły klawisz: a
+30/07/2025:00:01:07: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:01:07: Zwykły klawisz: s
+30/07/2025:00:01:07: Zwykły klawisz: s
+30/07/2025:00:01:08: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:01:08: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:01:08: Zwykły klawisz: c
+30/07/2025:00:01:10: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:11: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:14: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:17: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:17: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:28: Zwykły klawisz: .
+30/07/2025:00:01:28: Zwykły klawisz: c
+30/07/2025:00:01:28: Zwykły klawisz: h
+30/07/2025:00:01:28: Zwykły klawisz: a
+30/07/2025:00:01:28: Zwykły klawisz: r
+30/07/2025:00:01:30: Zwykły klawisz: .
+30/07/2025:00:01:31: Zwykły klawisz: c
+30/07/2025:00:01:31: Zwykły klawisz: h
+30/07/2025:00:01:31: Zwykły klawisz: a
+30/07/2025:00:01:31: Zwykły klawisz: r
+30/07/2025:00:01:31: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:01:31: Zwykły klawisz: s
+30/07/2025:00:01:31: Zwykły klawisz: s
+30/07/2025:00:01:32: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:01:32: Zwykły klawisz: c
+30/07/2025:00:01:33: Zwykły klawisz: f
+30/07/2025:00:01:34: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:34: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:34: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:39: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:39: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:39: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:43: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:01:44: Zwykły klawisz: c
+30/07/2025:00:01:44: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:01:44: Zwykły klawisz: v
+30/07/2025:00:01:45: Niestandardowy klawisz: Key.shift
+30/07/2025:00:01:45: Niestandardowy klawisz: Key.enter
+30/07/2025:00:01:45: Niestandardowy klawisz: Key.enter
+30/07/2025:00:01:45: Zwykły klawisz: J
+30/07/2025:00:01:45: Zwykły klawisz: a
+30/07/2025:00:01:45: Zwykły klawisz: k
+30/07/2025:00:01:45: Zwykły klawisz: b
+30/07/2025:00:01:45: Zwykły klawisz: y
+30/07/2025:00:01:46: Zwykły klawisz: s
+30/07/2025:00:01:46: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:46: Zwykły klawisz: t
+30/07/2025:00:01:46: Zwykły klawisz: o
+30/07/2025:00:01:46: Niestandardowy klawisz: Key.space
+30/07/2025:00:01:46: Zwykły klawisz: z
+30/07/2025:00:01:46: Zwykły klawisz: r
+30/07/2025:00:01:46: Zwykły klawisz: o
+30/07/2025:00:01:46: Zwykły klawisz: b
+30/07/2025:00:01:46: Zwykły klawisz: i
+30/07/2025:00:01:47: Zwykły klawisz: l
+30/07/2025:00:01:47: Niestandardowy klawisz: Key.shift_r
+30/07/2025:00:01:47: Zwykły klawisz: ?
+30/07/2025:00:01:47: Niestandardowy klawisz: Key.enter
+30/07/2025:00:02:09: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:02:09: Niestandardowy klawisz: Key.backspace
+30/07/2025:00:02:10: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:02:10: Zwykły klawisz: s
+30/07/2025:00:02:12: Niestandardowy klawisz: Key.ctrl
+30/07/2025:00:02:12: Zwykły klawisz: c
+30/07/2025:14:04:08: Zwykły klawisz: f
+30/07/2025:14:04:09: Zwykły klawisz: a
+30/07/2025:14:04:10: Zwykły klawisz: f
+30/07/2025:14:04:10: Zwykły klawisz: f
+30/07/2025:14:04:10: Zwykły klawisz: f
+30/07/2025:14:04:11: Zwykły klawisz: k
+30/07/2025:14:04:11: Zwykły klawisz: s
+30/07/2025:14:04:12: Zwykły klawisz: k
+30/07/2025:14:04:13: Zwykły klawisz: f
+30/07/2025:14:04:13: Zwykły klawisz: f
+30/07/2025:14:04:14: Zwykły klawisz: f
+30/07/2025:14:04:14: Zwykły klawisz: f
+30/07/2025:14:04:14: Zwykły klawisz: f
+30/07/2025:14:04:15: Zwykły klawisz: f
+30/07/2025:14:04:16: Zwykły klawisz: f
+30/07/2025:14:04:17: Zwykły klawisz: f
+30/07/2025:14:04:18: Zwykły klawisz: f
+30/07/2025:14:04:18: Zwykły klawisz: f
+30/07/2025:14:04:19: Zwykły klawisz: f
+30/07/2025:14:04:23: Zwykły klawisz: w
+30/07/2025:14:04:23: Zwykły klawisz: h
+30/07/2025:14:04:23: Zwykły klawisz: a
+30/07/2025:14:04:23: Zwykły klawisz: t
+30/07/2025:14:04:23: Zwykły klawisz: s
+30/07/2025:14:04:24: Niestandardowy klawisz: Key.space
+30/07/2025:14:04:24: Zwykły klawisz: t
+30/07/2025:14:04:30: Niestandardowy klawisz: Key.ctrl
+30/07/2025:14:04:30: Zwykły klawisz: c
+30/07/2025:14:04:31: Niestandardowy klawisz: Key.ctrl
+30/07/2025:14:04:31: Zwykły klawisz: v
+30/07/2025:14:04:31: Niestandardowy klawisz: Key.ctrl
+30/07/2025:14:04:32: Zwykły klawisz: s
+30/07/2025:14:04:32: Niestandardowy klawisz: Key.ctrl
+30/07/2025:14:04:32: Zwykły klawisz: c
+30/07/2025:14:04:34: Wciśnięto f
+30/07/2025:14:04:34: Zwykły klawisz: f
+30/07/2025:14:04:34: Wciśnięto f
+30/07/2025:14:04:34: Zwykły klawisz: f
+30/07/2025:14:04:34: Wciśnięto a
+30/07/2025:14:04:34: Zwykły klawisz: a
+30/07/2025:14:04:35: Wciśnięto f
+30/07/2025:14:04:35: Zwykły klawisz: f
+30/07/2025:14:04:35: Wciśnięto a
+30/07/2025:14:04:35: Zwykły klawisz: a
+30/07/2025:14:04:35: Wciśnięto f
+30/07/2025:14:04:35: Zwykły klawisz: f
+30/07/2025:14:04:36: Wciśnięto w
+30/07/2025:14:04:36: Zwykły klawisz: w
+30/07/2025:14:04:36: Wciśnięto h
+30/07/2025:14:04:36: Zwykły klawisz: h
+30/07/2025:14:04:36: Wciśnięto a
+30/07/2025:14:04:36: Zwykły klawisz: a
+30/07/2025:14:04:37: Wciśnięto t
+30/07/2025:14:04:37: Zwykły klawisz: t
+30/07/2025:14:04:37: Wciśnięto s
+30/07/2025:14:04:37: Zwykły klawisz: s
+30/07/2025:14:04:37: Niestandardowy klawisz: Key.space
+30/07/2025:14:04:37: Wciśnięto t
+30/07/2025:14:04:37: Zwykły klawisz: t
+30/07/2025:14:04:37: Wciśnięto h
+30/07/2025:14:04:37: Zwykły klawisz: h
+30/07/2025:14:04:37: Wciśnięto e
+30/07/2025:14:04:37: Zwykły klawisz: e
+30/07/2025:14:04:37: Niestandardowy klawisz: Key.space
+30/07/2025:14:04:37: Wciśnięto d
+30/07/2025:14:04:37: Zwykły klawisz: d
+30/07/2025:14:04:38: Wciśnięto i
+30/07/2025:14:04:38: Zwykły klawisz: i
+30/07/2025:14:04:38: Wciśnięto f
+30/07/2025:14:04:38: Zwykły klawisz: f
+30/07/2025:14:04:38: Wciśnięto f
+30/07/2025:14:04:38: Zwykły klawisz: f
+30/07/2025:14:04:38: Wciśnięto e
+30/07/2025:14:04:38: Zwykły klawisz: e
+30/07/2025:14:04:38: Wciśnięto r
+30/07/2025:14:04:38: Zwykły klawisz: r
+30/07/2025:14:04:38: Wciśnięto e
+30/07/2025:14:04:38: Zwykły klawisz: e
+30/07/2025:14:04:38: Wciśnięto n
+30/07/2025:14:04:38: Zwykły klawisz: n
+30/07/2025:14:04:38: Wciśnięto c
+30/07/2025:14:04:38: Zwykły klawisz: c
+30/07/2025:14:04:38: Wciśnięto e
+30/07/2025:14:04:38: Zwykły klawisz: e
+30/07/2025:14:04:39: Niestandardowy klawisz: Key.space
+30/07/2025:14:04:39: Wciśnięto b
+30/07/2025:14:04:39: Zwykły klawisz: b
+30/07/2025:14:04:39: Wciśnięto e
+30/07/2025:14:04:39: Zwykły klawisz: e
+30/07/2025:14:04:39: Wciśnięto t
+30/07/2025:14:04:39: Zwykły klawisz: t
+30/07/2025:14:04:39: Wciśnięto w
+30/07/2025:14:04:39: Zwykły klawisz: w
+30/07/2025:14:04:39: Wciśnięto e
+30/07/2025:14:04:39: Zwykły klawisz: e
+30/07/2025:14:04:39: Wciśnięto e
+30/07/2025:14:04:39: Zwykły klawisz: e
+30/07/2025:14:04:39: Wciśnięto n
+30/07/2025:14:04:39: Zwykły klawisz: n
+30/07/2025:14:04:39: Niestandardowy klawisz: Key.space
+30/07/2025:14:04:39: Wciśnięto t
+30/07/2025:14:04:39: Zwykły klawisz: t
+30/07/2025:14:04:39: Wciśnięto h
+30/07/2025:14:04:39: Zwykły klawisz: h
+30/07/2025:14:04:39: Wciśnięto o
+30/07/2025:14:04:39: Zwykły klawisz: o
+30/07/2025:14:04:40: Wciśnięto s
+30/07/2025:14:04:40: Zwykły klawisz: s
+30/07/2025:14:04:40: Wciśnięto e
+30/07/2025:14:04:40: Zwykły klawisz: e
+30/07/2025:14:04:40: Niestandardowy klawisz: Key.space
+30/07/2025:14:04:40: Wciśnięto t
+30/07/2025:14:04:40: Zwykły klawisz: t
+30/07/2025:14:04:40: Wciśnięto w
+30/07/2025:14:04:40: Zwykły klawisz: w
+30/07/2025:14:04:40: Wciśnięto o
+30/07/2025:14:04:40: Zwykły klawisz: o
+30/07/2025:14:04:40: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:04:40: Wciśnięto ?
+30/07/2025:14:04:40: Zwykły klawisz: ?
+30/07/2025:14:04:40: Niestandardowy klawisz: Key.enter
+30/07/2025:14:04:53: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:04:53: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:04:54: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:04:55: Wciśnięto c
+30/07/2025:14:04:55: Zwykły klawisz: c
+30/07/2025:14:04:55: Wciśnięto h
+30/07/2025:14:04:55: Zwykły klawisz: h
+30/07/2025:14:04:55: Wciśnięto a
+30/07/2025:14:04:55: Zwykły klawisz: a
+30/07/2025:14:04:56: Niestandardowy klawisz: Key.enter
+30/07/2025:14:04:57: Wciśnięto y
+30/07/2025:14:04:57: Zwykły klawisz: y
+30/07/2025:14:04:57: Niestandardowy klawisz: Key.enter
+30/07/2025:14:05:09: Niestandardowy klawisz: Key.ctrl
+30/07/2025:14:05:09: Wciśnięto c
+30/07/2025:14:05:09: Zwykły klawisz: c
+30/07/2025:14:21:07: Zwykły klawisz: g
+30/07/2025:14:21:09: Zwykły klawisz: g
+30/07/2025:14:21:10: Zwykły klawisz: g
+30/07/2025:14:21:10: Zwykły klawisz: d
+30/07/2025:14:21:10: Zwykły klawisz: g
+30/07/2025:14:21:10: Zwykły klawisz: g
+30/07/2025:14:21:11: Zwykły klawisz: d
+30/07/2025:14:21:11: Zwykły klawisz: g
+30/07/2025:14:21:11: Zwykły klawisz: g
+30/07/2025:14:21:12: Zwykły klawisz: f
+30/07/2025:14:21:12: Zwykły klawisz: d
+30/07/2025:14:21:12: Zwykły klawisz: g
+30/07/2025:14:21:12: Zwykły klawisz: f
+30/07/2025:14:21:12: Zwykły klawisz: d
+30/07/2025:14:21:12: Zwykły klawisz: g
+30/07/2025:14:21:17: Zwykły klawisz: g
+30/07/2025:14:21:17: Zwykły klawisz: g
+30/07/2025:14:21:18: Zwykły klawisz: g
+30/07/2025:14:21:19: Zwykły klawisz: g
+30/07/2025:14:21:19: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: g
+30/07/2025:14:21:20: Zwykły klawisz: d
+30/07/2025:14:21:33: Zwykły klawisz: w
+30/07/2025:14:21:33: Zwykły klawisz: i
+30/07/2025:14:21:33: Zwykły klawisz: t
+30/07/2025:14:21:33: Zwykły klawisz: h
+30/07/2025:14:21:33: Niestandardowy klawisz: Key.space
+30/07/2025:14:21:33: Zwykły klawisz: l
+30/07/2025:14:21:33: Zwykły klawisz: o
+30/07/2025:14:21:33: Zwykły klawisz: c
+30/07/2025:14:21:33: Zwykły klawisz: k
+30/07/2025:14:21:34: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:21:34: Zwykły klawisz: :
+30/07/2025:14:21:40: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:40: Niestandardowy klawisz: Key.tab
+30/07/2025:14:21:40: Niestandardowy klawisz: Key.tab
+30/07/2025:14:21:40: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:42: Zwykły klawisz: k
+30/07/2025:14:21:42: Zwykły klawisz: e
+30/07/2025:14:21:42: Zwykły klawisz: y
+30/07/2025:14:21:42: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:21:42: Zwykły klawisz: _
+30/07/2025:14:21:42: Zwykły klawisz: b
+30/07/2025:14:21:42: Zwykły klawisz: u
+30/07/2025:14:21:43: Zwykły klawisz: f
+30/07/2025:14:21:43: Zwykły klawisz: f
+30/07/2025:14:21:43: Zwykły klawisz: e
+30/07/2025:14:21:43: Zwykły klawisz: r
+30/07/2025:14:21:43: Zwykły klawisz: .
+30/07/2025:14:21:43: Zwykły klawisz: a
+30/07/2025:14:21:44: Zwykły klawisz: p
+30/07/2025:14:21:44: Zwykły klawisz: p
+30/07/2025:14:21:44: Zwykły klawisz: e
+30/07/2025:14:21:44: Zwykły klawisz: n
+30/07/2025:14:21:44: Zwykły klawisz: d
+30/07/2025:14:21:44: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:21:44: Zwykły klawisz: (
+30/07/2025:14:21:45: Zwykły klawisz: f
+30/07/2025:14:21:45: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:21:45: Zwykły klawisz: "
+30/07/2025:14:21:46: Niestandardowy klawisz: Key.caps_lock
+30/07/2025:14:21:46: Zwykły klawisz: z
+30/07/2025:14:21:46: Niestandardowy klawisz: Key.caps_lock
+30/07/2025:14:21:46: Zwykły klawisz: w
+30/07/2025:14:21:46: Zwykły klawisz: q
+30/07/2025:14:21:47: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:47: Zwykły klawisz: y
+30/07/2025:14:21:47: Zwykły klawisz: k
+30/07/2025:14:21:48: Zwykły klawisz: l
+30/07/2025:14:21:48: Zwykły klawisz: y
+30/07/2025:14:21:48: Niestandardowy klawisz: Key.space
+30/07/2025:14:21:48: Zwykły klawisz: k
+30/07/2025:14:21:48: Zwykły klawisz: l
+30/07/2025:14:21:48: Zwykły klawisz: a
+30/07/2025:14:21:48: Zwykły klawisz: w
+30/07/2025:14:21:48: Zwykły klawisz: i
+30/07/2025:14:21:48: Zwykły klawisz: s
+30/07/2025:14:21:48: Zwykły klawisz: z
+30/07/2025:14:21:49: Niestandardowy klawisz: Key.space
+30/07/2025:14:21:49: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:21:49: Zwykły klawisz: {
+30/07/2025:14:21:49: Zwykły klawisz: k
+30/07/2025:14:21:49: Zwykły klawisz: e
+30/07/2025:14:21:49: Zwykły klawisz: y
+30/07/2025:14:21:49: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:21:49: Zwykły klawisz: _
+30/07/2025:14:21:49: Zwykły klawisz: +
+30/07/2025:14:21:50: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:50: Zwykły klawisz: c
+30/07/2025:14:21:50: Zwykły klawisz: h
+30/07/2025:14:21:50: Zwykły klawisz: a
+30/07/2025:14:21:50: Zwykły klawisz: r
+30/07/2025:14:21:51: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:51: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:51: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:52: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:52: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:53: Zwykły klawisz: .
+30/07/2025:14:21:54: Zwykły klawisz: c
+30/07/2025:14:21:54: Zwykły klawisz: h
+30/07/2025:14:21:54: Zwykły klawisz: a
+30/07/2025:14:21:54: Zwykły klawisz: r
+30/07/2025:14:21:54: Niestandardowy klawisz: Key.right
+30/07/2025:14:21:54: Niestandardowy klawisz: Key.right
+30/07/2025:14:21:55: Niestandardowy klawisz: Key.right
+30/07/2025:14:21:56: Niestandardowy klawisz: Key.enter
+30/07/2025:14:21:57: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:21:57: Zwykły klawisz: p
+30/07/2025:14:21:57: Zwykły klawisz: r
+30/07/2025:14:21:57: Zwykły klawisz: i
+30/07/2025:14:21:58: Zwykły klawisz: n
+30/07/2025:14:21:58: Zwykły klawisz: t
+30/07/2025:14:21:58: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:21:58: Zwykły klawisz: )
+30/07/2025:14:22:00: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:00: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:00: Zwykły klawisz: (
+30/07/2025:14:22:00: Zwykły klawisz: "
+30/07/2025:14:22:01: Niestandardowy klawisz: Key.left
+30/07/2025:14:22:02: Zwykły klawisz: f
+30/07/2025:14:22:02: Niestandardowy klawisz: Key.right
+30/07/2025:14:22:02: Niestandardowy klawisz: Key.caps_lock
+30/07/2025:14:22:02: Zwykły klawisz: w
+30/07/2025:14:22:03: Niestandardowy klawisz: Key.caps_lock
+30/07/2025:14:22:03: Zwykły klawisz: c
+30/07/2025:14:22:03: Zwykły klawisz: i
+30/07/2025:14:22:03: Zwykły klawisz: s
+30/07/2025:14:22:03: Zwykły klawisz: n
+30/07/2025:14:22:03: Zwykły klawisz: i
+30/07/2025:14:22:03: Zwykły klawisz: e
+30/07/2025:14:22:03: Zwykły klawisz: t
+30/07/2025:14:22:03: Zwykły klawisz: o
+30/07/2025:14:22:03: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:03: Zwykły klawisz: k
+30/07/2025:14:22:04: Zwykły klawisz: l
+30/07/2025:14:22:04: Zwykły klawisz: a
+30/07/2025:14:22:04: Zwykły klawisz: w
+30/07/2025:14:22:04: Zwykły klawisz: i
+30/07/2025:14:22:04: Zwykły klawisz: s
+30/07/2025:14:22:04: Zwykły klawisz: z
+30/07/2025:14:22:06: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:06: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:06: Zwykły klawisz: {
+30/07/2025:14:22:07: Zwykły klawisz: k
+30/07/2025:14:22:07: Zwykły klawisz: e
+30/07/2025:14:22:07: Zwykły klawisz: y
+30/07/2025:14:22:07: Zwykły klawisz: .
+30/07/2025:14:22:07: Zwykły klawisz: c
+30/07/2025:14:22:07: Zwykły klawisz: h
+30/07/2025:14:22:07: Zwykły klawisz: a
+30/07/2025:14:22:07: Zwykły klawisz: r
+30/07/2025:14:22:07: Niestandardowy klawisz: Key.right
+30/07/2025:14:22:08: Niestandardowy klawisz: Key.right
+30/07/2025:14:22:08: Niestandardowy klawisz: Key.right
+30/07/2025:14:22:12: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:12: Niestandardowy klawisz: Key.tab
+30/07/2025:14:22:12: Niestandardowy klawisz: Key.tab
+30/07/2025:14:22:13: Zwykły klawisz: w
+30/07/2025:14:22:13: Zwykły klawisz: i
+30/07/2025:14:22:13: Zwykły klawisz: t
+30/07/2025:14:22:13: Zwykły klawisz: h
+30/07/2025:14:22:13: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:13: Zwykły klawisz: l
+30/07/2025:14:22:13: Zwykły klawisz: o
+30/07/2025:14:22:13: Zwykły klawisz: c
+30/07/2025:14:22:14: Zwykły klawisz: k
+30/07/2025:14:22:14: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:14: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:14: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:14: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:14: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:15: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:16: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:16: Zwykły klawisz: w
+30/07/2025:14:22:16: Zwykły klawisz: i
+30/07/2025:14:22:16: Zwykły klawisz: t
+30/07/2025:14:22:16: Zwykły klawisz: h
+30/07/2025:14:22:16: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:17: Zwykły klawisz: l
+30/07/2025:14:22:17: Zwykły klawisz: o
+30/07/2025:14:22:17: Zwykły klawisz: c
+30/07/2025:14:22:17: Zwykły klawisz: k
+30/07/2025:14:22:17: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:17: Zwykły klawisz: :
+30/07/2025:14:22:17: Niestandardowy klawisz: Key.enter
+30/07/2025:14:22:18: Zwykły klawisz: k
+30/07/2025:14:22:18: Zwykły klawisz: e
+30/07/2025:14:22:18: Zwykły klawisz: y
+30/07/2025:14:22:18: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:18: Zwykły klawisz: _
+30/07/2025:14:22:19: Zwykły klawisz: b
+30/07/2025:14:22:19: Zwykły klawisz: u
+30/07/2025:14:22:19: Zwykły klawisz: f
+30/07/2025:14:22:19: Zwykły klawisz: f
+30/07/2025:14:22:19: Zwykły klawisz: e
+30/07/2025:14:22:19: Zwykły klawisz: r
+30/07/2025:14:22:20: Zwykły klawisz: .
+30/07/2025:14:22:20: Zwykły klawisz: a
+30/07/2025:14:22:20: Zwykły klawisz: p
+30/07/2025:14:22:20: Zwykły klawisz: p
+30/07/2025:14:22:20: Zwykły klawisz: e
+30/07/2025:14:22:20: Zwykły klawisz: n
+30/07/2025:14:22:20: Zwykły klawisz: d
+30/07/2025:14:22:21: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:21: Zwykły klawisz: (
+30/07/2025:14:22:22: Zwykły klawisz: f
+30/07/2025:14:22:22: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:22: Zwykły klawisz: "
+30/07/2025:14:22:22: Niestandardowy klawisz: Key.caps_lock
+30/07/2025:14:22:23: Zwykły klawisz: n
+30/07/2025:14:22:23: Niestandardowy klawisz: Key.caps_lock
+30/07/2025:14:22:23: Zwykły klawisz: i
+30/07/2025:14:22:23: Zwykły klawisz: e
+30/07/2025:14:22:23: Zwykły klawisz: s
+30/07/2025:14:22:23: Zwykły klawisz: t
+30/07/2025:14:22:23: Zwykły klawisz: a
+30/07/2025:14:22:23: Zwykły klawisz: n
+30/07/2025:14:22:23: Zwykły klawisz: d
+30/07/2025:14:22:24: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:24: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:24: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:24: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:24: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:24: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:24: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:24: Zwykły klawisz: i
+30/07/2025:14:22:25: Zwykły klawisz: e
+30/07/2025:14:22:25: Zwykły klawisz: s
+30/07/2025:14:22:25: Zwykły klawisz: t
+30/07/2025:14:22:25: Zwykły klawisz: a
+30/07/2025:14:22:25: Zwykły klawisz: n
+30/07/2025:14:22:25: Zwykły klawisz: d
+30/07/2025:14:22:25: Zwykły klawisz: a
+30/07/2025:14:22:26: Zwykły klawisz: r
+30/07/2025:14:22:26: Zwykły klawisz: d
+30/07/2025:14:22:26: Zwykły klawisz: o
+30/07/2025:14:22:26: Zwykły klawisz: w
+30/07/2025:14:22:26: Zwykły klawisz: y
+30/07/2025:14:22:26: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:26: Zwykły klawisz: k
+30/07/2025:14:22:26: Zwykły klawisz: l
+30/07/2025:14:22:26: Zwykły klawisz: a
+30/07/2025:14:22:26: Zwykły klawisz: w
+30/07/2025:14:22:26: Zwykły klawisz: i
+30/07/2025:14:22:26: Zwykły klawisz: s
+30/07/2025:14:22:26: Zwykły klawisz: z
+30/07/2025:14:22:27: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:27: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:27: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:27: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:27: Zwykły klawisz: :
+30/07/2025:14:22:28: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:28: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:28: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:28: Zwykły klawisz: {
+30/07/2025:14:22:29: Zwykły klawisz: k
+30/07/2025:14:22:29: Zwykły klawisz: e
+30/07/2025:14:22:29: Zwykły klawisz: y
+30/07/2025:14:22:33: Niestandardowy klawisz: Key.enter
+30/07/2025:14:22:33: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:33: Zwykły klawisz: p
+30/07/2025:14:22:33: Zwykły klawisz: [
+30/07/2025:14:22:33: Zwykły klawisz: r
+30/07/2025:14:22:34: Zwykły klawisz: i
+30/07/2025:14:22:34: Zwykły klawisz: o
+30/07/2025:14:22:34: Zwykły klawisz: n
+30/07/2025:14:22:34: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:34: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:34: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:34: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:34: Niestandardowy klawisz: Key.backspace
+30/07/2025:14:22:34: Zwykły klawisz: r
+30/07/2025:14:22:34: Zwykły klawisz: i
+30/07/2025:14:22:35: Zwykły klawisz: n
+30/07/2025:14:22:35: Zwykły klawisz: t
+30/07/2025:14:22:35: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:35: Zwykły klawisz: (
+30/07/2025:14:22:35: Zwykły klawisz: f
+30/07/2025:14:22:36: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:36: Zwykły klawisz: "
+30/07/2025:14:22:38: Zwykły klawisz: n
+30/07/2025:14:22:38: Zwykły klawisz: i
+30/07/2025:14:22:38: Zwykły klawisz: e
+30/07/2025:14:22:38: Zwykły klawisz: s
+30/07/2025:14:22:38: Zwykły klawisz: t
+30/07/2025:14:22:38: Zwykły klawisz: a
+30/07/2025:14:22:38: Zwykły klawisz: n
+30/07/2025:14:22:39: Zwykły klawisz: d
+30/07/2025:14:22:39: Zwykły klawisz: a
+30/07/2025:14:22:39: Zwykły klawisz: r
+30/07/2025:14:22:39: Zwykły klawisz: d
+30/07/2025:14:22:39: Zwykły klawisz: o
+30/07/2025:14:22:39: Zwykły klawisz: w
+30/07/2025:14:22:40: Zwykły klawisz: y
+30/07/2025:14:22:40: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:40: Zwykły klawisz: k
+30/07/2025:14:22:40: Zwykły klawisz: l
+30/07/2025:14:22:40: Zwykły klawisz: a
+30/07/2025:14:22:40: Zwykły klawisz: w
+30/07/2025:14:22:40: Zwykły klawisz: i
+30/07/2025:14:22:40: Zwykły klawisz: s
+30/07/2025:14:22:40: Zwykły klawisz: z
+30/07/2025:14:22:40: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:40: Zwykły klawisz: :
+30/07/2025:14:22:42: Niestandardowy klawisz: Key.space
+30/07/2025:14:22:42: Niestandardowy klawisz: Key.shift_r
+30/07/2025:14:22:42: Zwykły klawisz: {
+30/07/2025:14:22:43: Zwykły klawisz: k
+30/07/2025:14:22:43: Zwykły klawisz: e
+30/07/2025:14:22:43: Zwykły klawisz: y
+30/07/2025:14:22:43: Niestandardowy klawisz: Key.ctrl
+30/07/2025:14:22:43: Zwykły klawisz: s
+30/07/2025:14:22:44: Niestandardowy klawisz: Key.ctrl
+30/07/2025:14:22:44: Zwykły klawisz: c
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz d
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz d
+30/07/2025:14:22:56: Zwykly klawisz f
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz d
+30/07/2025:14:22:56: Zwykly klawisz f
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz s
+30/07/2025:14:22:56: Zwykly klawisz a
+30/07/2025:14:22:56: Zwykly klawisz d
+30/07/2025:14:22:56: Zwykly klawisz f
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:22:56: Zwykly klawisz s
+30/07/2025:14:22:56: Zwykly klawisz f
+30/07/2025:14:22:56: Zwykly klawisz d
+30/07/2025:14:22:56: Zwykly klawisz g
+30/07/2025:14:23:06: Zwykly klawisz g
+30/07/2025:14:23:06: Zwykly klawisz d
+30/07/2025:14:23:06: Zwykly klawisz f
+30/07/2025:14:23:06: Zwykly klawisz g
+30/07/2025:14:23:06: Zwykly klawisz d
+30/07/2025:14:23:06: Zwykly klawisz f
+30/07/2025:14:23:06: Zwykly klawisz g
+30/07/2025:14:23:06: Zwykly klawisz d
+30/07/2025:14:23:06: Zwykly klawisz f
+30/07/2025:14:23:06: Zwykly klawisz g
+30/07/2025:14:23:06: Zwykly klawisz d
+30/07/2025:14:23:06: Zwykly klawisz f
+30/07/2025:14:23:06: Zwykly klawisz g
+30/07/2025:14:23:06: Zwykly klawisz f
+30/07/2025:14:23:06: Zwykly klawisz d
+30/07/2025:14:23:06: Zwykly klawisz g
+30/07/2025:14:23:36: Niestandardowy klawisz Key.ctrl
+30/07/2025:14:23:36: Zwykly klawisz a
+30/07/2025:14:23:36: Zwykly klawisz c
+30/07/2025:14:23:36: Niestandardowy klawisz Key.ctrl
+30/07/2025:14:23:36: Zwykly klawisz v
+30/07/2025:14:23:36: Niestandardowy klawisz Key.shift
+30/07/2025:14:23:36: Niestandardowy klawisz Key.enter
+30/07/2025:14:23:36: Niestandardowy klawisz Key.enter
+30/07/2025:14:23:36: Zwykly klawisz N
+30/07/2025:14:23:46: Zwykly klawisz i
+30/07/2025:14:23:46: Zwykly klawisz e
+30/07/2025:14:23:46: Niestandardowy klawisz Key.space
+30/07/2025:14:23:46: Zwykly klawisz z
+30/07/2025:14:23:46: Zwykly klawisz a
+30/07/2025:14:23:46: Zwykly klawisz p
+30/07/2025:14:23:46: Zwykly klawisz i
+30/07/2025:14:23:46: Zwykly klawisz s
+30/07/2025:14:23:46: Zwykly klawisz u
+30/07/2025:14:23:46: Zwykly klawisz i
+30/07/2025:14:23:46: Niestandardowy klawisz Key.backspace
+30/07/2025:14:23:46: Niestandardowy klawisz Key.backspace
+30/07/2025:14:23:46: Zwykly klawisz i
+30/07/2025:14:23:46: Zwykly klawisz s
+30/07/2025:14:23:46: Zwykly klawisz u
+30/07/2025:14:23:46: Zwykly klawisz j
+30/07/2025:14:23:46: Zwykly klawisz e
+30/07/2025:14:23:46: Niestandardowy klawisz Key.space
+30/07/2025:14:23:46: Zwykly klawisz m
+30/07/2025:14:23:46: Zwykly klawisz i
+30/07/2025:14:23:46: Niestandardowy klawisz Key.space
+30/07/2025:14:23:46: Zwykly klawisz d
+30/07/2025:14:23:46: Zwykly klawisz a
+30/07/2025:14:23:46: Zwykly klawisz n
+30/07/2025:14:23:46: Zwykly klawisz e
+30/07/2025:14:23:46: Niestandardowy klawisz Key.backspace
+30/07/2025:14:23:46: Zwykly klawisz y
+30/07/2025:14:23:46: Zwykly klawisz c
+30/07/2025:14:23:46: Zwykly klawisz h
+30/07/2025:14:23:46: Niestandardowy klawisz Key.enter
+30/07/2025:14:23:56: Niestandardowy klawisz Key.up
+30/07/2025:14:23:56: Zwykly klawisz p
+30/07/2025:14:23:56: Zwykly klawisz r
+30/07/2025:14:23:56: Zwykly klawisz i
+30/07/2025:14:23:56: Zwykly klawisz n
+30/07/2025:14:23:56: Zwykly klawisz t
+30/07/2025:14:23:56: Niestandardowy klawisz Key.shift_r
+30/07/2025:14:23:56: Zwykly klawisz (
+30/07/2025:14:23:56: Zwykly klawisz "
+30/07/2025:14:23:56: Niestandardowy klawisz Key.backspace
+30/07/2025:14:23:56: Zwykly klawisz k
+30/07/2025:14:23:56: Zwykly klawisz e
+30/07/2025:14:23:56: Zwykly klawisz y
+30/07/2025:14:23:56: Niestandardowy klawisz Key.shift_r
+30/07/2025:14:23:56: Zwykly klawisz _
+30/07/2025:14:23:56: Zwykly klawisz b
+30/07/2025:14:23:56: Zwykly klawisz u
+30/07/2025:14:23:56: Zwykly klawisz f
+30/07/2025:14:23:56: Zwykly klawisz f
+30/07/2025:14:23:56: Zwykly klawisz e
+30/07/2025:14:23:56: Zwykly klawisz r
+30/07/2025:14:24:08: Zwykly klawisz f
+30/07/2025:14:24:08: Zwykly klawisz s
+30/07/2025:14:24:08: Zwykly klawisz d
+30/07/2025:14:24:08: Zwykly klawisz f
+30/07/2025:14:24:08: Zwykly klawisz f
+30/07/2025:14:24:08: Zwykly klawisz f
+30/07/2025:14:24:08: Niestandardowy klawisz Key.shift_r
+30/07/2025:14:24:08: Zwykly klawisz f
+30/07/2025:14:24:08: Niestandardowy klawisz Key.shift_r
+30/07/2025:14:24:08: Zwykly klawisz "
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.right
+30/07/2025:14:24:08: Niestandardowy klawisz Key.shift_r
+30/07/2025:14:24:08: Zwykly klawisz |
+30/07/2025:14:24:08: Zwykly klawisz "
+30/07/2025:14:24:46: Zwykly klawisz f
+30/07/2025:14:24:46: Zwykly klawisz f
+30/07/2025:14:24:46: Zwykly klawisz s
+30/07/2025:14:24:46: Zwykly klawisz f
+30/07/2025:14:24:46: Zwykly klawisz s
+30/07/2025:14:24:46: Zwykly klawisz d
+30/07/2025:14:24:46: Zwykly klawisz f
+30/07/2025:14:24:46: Zwykly klawisz s
+30/07/2025:14:24:46: Zwykly klawisz d
+30/07/2025:14:24:46: Zwykly klawisz f
+30/07/2025:14:24:46: Zwykly klawisz s
+30/07/2025:14:24:46: Zwykly klawisz d
+30/07/2025:14:24:46: Zwykly klawisz f
+30/07/2025:14:24:46: Zwykly klawisz g
+30/07/2025:14:24:46: Zwykly klawisz g
+30/07/2025:14:24:46: Zwykly klawisz g
+30/07/2025:14:24:46: Zwykly klawisz g
+30/07/2025:14:24:46: Zwykly klawisz d
+30/07/2025:14:24:46: Zwykly klawisz s
+30/07/2025:14:24:46: Zwykly klawisz g
+30/07/2025:14:25:34: ['Zwykly klawisz g', 'Zwykly klawisz g', 'Zwykly klawisz g', 'Zwykly klawisz a', 'Zwykly klawisz l', 'Zwykly klawisz e', 'Zwykly klawisz z', 'Zwykly klawisz l', 'Zwykly klawisz o', 'Zwykly klawisz t', 'Zwykly klawisz o']
+30/07/2025:14:25:54: ['Niestandardowy klawisz Key.enter', 'Zwykly klawisz k', 'Zwykly klawisz e', 'Zwykly klawisz y', 'Niestandardowy klawisz Key.shift_r', 'Zwykly klawisz _', 'Zwykly klawisz b']
+30/07/2025:14:26:04: ['Zwykly klawisz u', 'Zwykly klawisz f', 'Zwykly klawisz f', 'Zwykly klawisz e', 'Zwykly klawisz r', 'Niestandardowy klawisz Key.space', 'Zwykly klawisz =', 'Niestandardowy klawisz Key.space', 'Niestandardowy klawisz Key.backspace', 'Niestandardowy klawisz Key.backspace']
+30/07/2025:14:26:14: ['Niestandardowy klawisz Key.backspace']
+30/07/2025:14:26:24: ['Niestandardowy klawisz Key.backspace', 'Niestandardowy klawisz Key.shift_r', 'Zwykly klawisz _', 'Niestandardowy klawisz Key.backspace', 'Niestandardowy klawisz Key.shift_r', 'Zwykly klawisz +', 'Niestandardowy klawisz Key.backspace']
+30/07/2025:14:26:36: ['f', 'f', 's', 'd', 'f', 'm', 'a', 'c', 'i', 'e', 'k']
+30/07/2025:14:27:06: ['Key.backspace', 'Key.backspace', 'Key.ctrl', 's']
+30/07/2025:14:28:56: ['t', 'i', 'Key.enter', 'Key.ctrl', 'v', 'Key.enter']
+30/07/2025:14:30:16: ['h', 'e', 'l', 'l', 'o']
+30/07/2025:14:30:46: ['c', 'z', 'y', 'Key.space', 'Key.ctrl', 'a', 'Key.caps_lock', 'a', 'Key.caps_lock', 'Key.space', 'j', 'a', 'k', 'b', 'y', 's', 'Key.space', 'z', 'r', 'o', 'b', 'i', 'l', 'Key.space', 'p', 'Key.ctrl', 'a', 'j', 'a', 'k', 'Key.space', 'w', 'Key.space', 'p', 'y', 't', 'h', 'o', 'n', 'i', 'e', 'Key.space', 'm', 'o', 'g', 'e', 'Key.space', 'w', 'p', 'Key.backspace', 'Key.backspace', 'p', 'r', 'i', 'n', 't', 'o', 'w', 'a', 'c', 'Key.space', 'a', 'k', 't', 'u', 'a', 'l', 'n', 'e', 'Key.space', 'o', 'k', 'n', 'o', 'Key.shift_r', '?']
+30/07/2025:14:30:56: ['Key.space', 'Key.enter']
+30/07/2025:14:31:06: ['a', 'Key.space', 'p']
+30/07/2025:14:31:16: ['y', 'n', 'p', 'u', 't', 'Key.space', 'd', 'z', 'i', 'a', 'l', 'a', 'Key.space', 'n', 'a', 'Key.space', 'l', 'i', 'n', 'u', 'x', 'a', 'Key.space', 'c', 'z', 'y', 'Key.space', 't', 'y', 'l', 'k', 'o', 'Key.space', 'n', 'a', 'Key.space', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'w', 'i', 'n', 'd', 'o', 'w', 's', 'a', 'Key.space', 't', 'e', 'z', 'Key.space', 'c', 'z', 'y', 'Key.space', 't', 'y', 'l', 'k', 'o', 'Key.space', 'n', 'a', 'Key.space', 'l', 'i', 'n', 'u', 'x', 'a', 'Key.enter']
+30/07/2025:14:31:26: ['j', 'e', 's', 't', 'Key.space', 'j', 'a', 'k', 's', 'Key.backspace', 'a', 's', 'Key.space', 'c', 'r', 'o', 's', 's']
+30/07/2025:14:31:36: ['Key.space', 'p', 'l', 'a', 't', 'f', 'o', 'r', 'm', 'o', 'w', 'a', 'Key.space', 'j', 'e', 's', 'l', 'i', 'Key.space', 'c', 'h', 'o', 'd', 'z', 'i', 'Key.space', 'o', 'Key.space', 'Key.ctrl', 'a', 'Key.backspace']
+30/07/2025:14:31:46: ['a', 'k', 't', 'u', 'a', 'l', 'n', 'i', 'e', 'Key.space', 'a', 'm', 'm', 'Key.space', 'z', 'a', 'p', 'i', 's', 'y', 'w', 'a', 'n', 'i', 'e', 'Key.space', 'l', 'o', 'g', 'o', 'w', 'Key.space']
+30/07/2025:14:31:56: ['Key.space', 't', 'y', 'l', 'k', 'o', 'Key.space', 'p']
+30/07/2025:14:32:06: ['y', 't', 'n', 'a', 'i', 'e', 'Key.space', 'c', 'z', 'y', 'Key.space', 'o', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'Key.backspace', 'o', 'Key.space', 'c', 'Key.backspace', 't', 'u', 'Key.space', 'j', 'e', 's', 'z', 'c', 'z', 'e', 'Key.space', 'd', 'o', 'd', 'a', 'c', 'Key.space', 'd', 'o', 'Key.space', 't', 'e', 'g', 'o', 'Key.enter']
+30/07/2025:14:32:16: ['Key.ctrl', 'a', 'c', 'Key.ctrl', 'v', 'Key.shift', 'Key.enter', 'Key.enter', 'm', 'a', 'm', 'Key.space', 'c', 'o', 's', 'Key.space', 't', 'a', 'k', 'i', 'e', 'g', 'o', 'Key.enter']

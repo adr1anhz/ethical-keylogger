@@ -1,1 +1,6 @@
 venv/
+logs.txt
+
+# Ustawienia Edytora
+.vscode/
+.idea/
