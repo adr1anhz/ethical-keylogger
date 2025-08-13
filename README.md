@@ -9,7 +9,7 @@ Celem jest zasymulowanie, jak działają prawdziwe narzędzia — **wyłącznie 
 - **cryptography** – Do szyfrowania asymetrycznego RSA. Komunikacja między payloadem a serwerem C2 jest w pełni szyfrowana
 - **Flask** – Do budowy serwera C2, który odbiera logi.
 - **requests** - Używane przez payload do wysyłania danych do serwera C2.
-- 
+
 
 ##  Jak to działa?
 
